@@ -1,6 +1,12 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=60&animation=twinkling&text=Welcome👦&desc=This%20is%20Jaewon's%20Github!&descSize=30&fontColor=ffffff&fontAlignY=30)
 
-## Hi there 👋
+## 🙇‍♂️ Who am I
+Thank you for visiting my Github!<br/>
+I am a university student enjoying to study AI and data science.<br/>
+I am always passionate about personal growth.<br/>
+I hope that I can give my best in everything I do.<br/>
+Have a Nice day:)
+
 
 <br/>
 
@@ -41,10 +47,25 @@
 | 2023 | ADsP | 한국데이터산업진흥원 | 영구 |
 
 <br/>
-## Projects
-|주관(연도)|대회(프로젝트)명|분야|비고|
-|------|---|---|---|
-|[전공] 텍스트데이터분석(2024-1학기)|(네이버)뉴스 크롤링을 통한 환경 이슈 분석|텍스트 분석|--|
-|[전공] 딥러닝(2024-1학기)|피부질환 판독 AI를 통한 의료 취약 지역 환자 투약 가이드라인 제공 방안|CV|--|
+
+## 👨‍💻 Projects
+|진행 일시|프로젝트명|분야|비고|
+| :------: | :------: | :------: | :------: |
+| [전공] 텍스트데이터분석(2024-1학기) | (네이버)뉴스 크롤링을 통한 환경 이슈 분석| 텍스트 분석 | - |
+| [전공] 딥러닝(2024-1학기)| 피부질환 판독 AI를 통한 의료 취약 지역 환자 투약 가이드라인 제공 방안 | CV | - |
 
 <br/>
+
+## 🥊 Hits
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jaewon1634%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+
+<br/>
+
+## 🆙 GitHub Stats
+![Jaewon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaewon1634&show_icons=true&theme=swift)
+
+
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&animation=twinkling)

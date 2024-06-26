@@ -18,3 +18,33 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 <br/>
+
+## 👔 Career 
+| 활동기간 | 기관 | 명칭 | 비고 |
+| :------: | :------: | :------: | :------: |
+| 2016.03. ~ 2019.02. | 논산대건고등학교 | 이공계열 | 졸업 |
+| 2020.03. ~ | 국민대학교 | AI빅데이터융합경영학과 | 제1전공 | 재학 | 
+| 2020.03. ~ 2021.02. | 국민대학교 | 빅데이터경영통계전공 제3,4대 비상대책위원회 | 기획부원 | - |
+| 2021.03. ~ 2021.06. | 국민대학교 | 전공 학회 D&A Basic Session | 학회원 | 수료 |
+| 2021.03. ~ 2021.08. | 국민대학교 | 빅데이터경영통계전공 제8대 학생회 CODE | 기획부원 | - |
+| 2023.09. ~ 2023.12. | 국민대학교 | 전공 학회 D&A ML Session | 학회원 | 수료 |
+| 2023.12. ~ | 국민대학교 | AI빅데이터융합경영학과 제3대 학생회 채움 | 기획부장 | - |
+| 2024.03. ~ 2024.06. | 국민대학교 | 전공 학회 D&A Deep Session | 학회원 | 수료 |
+| 2024.03. ~ | 국민대학교 | 데이터사이언스전공 | 융합전공 | 재학 |
+
+<br/>
+
+## 🪪 Certificate
+|취득 연도|자격증|주관|유효기간|
+| :------: | :------: | :------: | :------: |
+| 2021 | 컴퓨터활용능력 2급 | 대한상공회의소 자격평가사업단 | 영구 |
+| 2023 | ADsP | 한국데이터산업진흥원 | 영구 |
+
+<br/>
+## Projects
+|주관(연도)|대회(프로젝트)명|분야|비고|
+|------|---|---|---|
+|[전공] 텍스트데이터분석(2024-1학기)|(네이버)뉴스 크롤링을 통한 환경 이슈 분석|텍스트 분석|--|
+|[전공] 딥러닝(2024-1학기)|피부질환 판독 AI를 통한 의료 취약 지역 환자 투약 가이드라인 제공 방안|CV|--|
+
+<br/>

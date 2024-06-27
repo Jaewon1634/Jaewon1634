@@ -63,7 +63,7 @@ Have a Nice day:)
 |2023|서울,부산 아파트 실거래가 예측 (학회)|ML|[링크](https://github.com/Jaewon1634/apartment-price_prediction)|
 |2023|패널 Survey 응답 예측 (전공)|ML|[링크](https://github.com/Jaewon1634/panel_survey_prediction)|
 |2024|네이버 뉴스 크롤링을 통한 국내 주요 게임사 분석 (전공)|NLP|[링크](https://github.com/Jaewon1634/Game_Company_Analysis.github.io)|
-|2024|피부질환 판독 AI를 통한 의료 취약 지역 환자 투약 가이드라인 제공 방안<br/>(파이프라인 설계, 구현 X)|CV|-|
+|2024|피부질환 판독 AI를 통한 의료 취약 지역 환자 투약 가이드라인 제공 방안<br/>(파이프라인 설계, 구현 X)|CV|[링크](https://github.com/Jaewon1634/skin-disease_screening)|
 
 <br/>
 

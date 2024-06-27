@@ -50,8 +50,9 @@ Have a Nice day:)
 ## 👨‍💻 Projects
 |진행 일시|프로젝트명|분야|비고|
 |:------:|:------:|:------:|:------:|
-|2021|실버세대 백화점 구매활성화 방안 분석(전공)|EDA & 시각화|[링크](https://github.com/Jaewon1634/silver_generation_consumption)|
-|2024|네이버 뉴스 크롤링을 통한 국내 주요 게임사 분석|NLP|[링크](https://github.com/Jaewon1634/Game_Company_Analysis.github.io)|
+|2021|실버세대 백화점 구매활성화 방안 분석 (전공)|EDA & 시각화|[링크](https://github.com/Jaewon1634/silver_generation_consumption)|
+|2023|서울,부산 아파트 실거래가 예측 (학회)|ML|[링크](https://github.com/Jaewon1634/silver_generation_consumption)|
+|2024|네이버 뉴스 크롤링을 통한 국내 주요 게임사 분석 (전공)|NLP|[링크](https://github.com/Jaewon1634/Game_Company_Analysis.github.io)|
 |2024|피부질환 판독 AI를 통한 의료 취약 지역 환자 투약 가이드라인 제공 방안<br/>(파이프라인 설계, 구현 X)|CV|-|
 
 <br/>

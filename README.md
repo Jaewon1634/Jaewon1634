@@ -50,7 +50,7 @@ Have a Nice day:)
 ## 🎖️ Competition
 |일시|주관|대회명|분야|비고|
 |:------:|:------:|:------:|:------:|:------:|
-|재단법인<br/>미래와소프트웨어|2024.1|제3회 빅데이터 활용 미래 사회문제 문제 해결 아이디어해커톤|시각화 & ML|[링크](https://github.com/Jaewon1634/silver_generation_consumption)|
+|재단법인<br/>미래와소프트웨어|2024.1|제3회 빅데이터 활용 미래 사회문제 문제 해결 아이디어해커톤|시각화 & ML|[링크](https://github.com/Jaewon1634/Maintenance-bill_prediction)|
 |환경부|2024.6|2024년도 환경데이터 활용 및 분석 공모전|데이터분석 & 시각화|[링크](https://github.com/Jaewon1634/silver_generation_consumption)|
 
 

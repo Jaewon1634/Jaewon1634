@@ -2,9 +2,11 @@
 
 ## 🙇‍♂️ Who am I
 Thank you for visiting my Github!<br/><br/>
+
 Hello, I'm Jaewon Lee, I am a university student enjoying to study AI and data science!<br/>
-I'm particulary interested in Recommendation System and LLM<br/>
+I'm particulary interested in **Recommendation System and LLM**<br/>
 I hope that my GitHub will be of great help to everyone who came to my GitHub 🍀<br/><br/>
+
 Have a Nice day:)
 
 
@@ -18,10 +20,14 @@ Have a Nice day:)
 
 ## 🖥️ Technical Skills 
 #### • Languages 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+
+
 
 #### • Development Tools
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
 
 <br/>
 
@@ -48,8 +54,8 @@ Have a Nice day:)
 
 ## 🎖️ Competition
 |일시|주관|대회명|분야|비고|수상|
-|:------:|:------:|:------:|:------:|:------:|
-|2024.1.|재단법인<br/>미래와소프트웨어|제3회 빅데이터 활용 미래 사회문제 문제 해결 아이디어해커톤|시각화 & ML|[링크](https://github.com/Jaewon1634/Maintenance-bill_prediction)|-|
+|:------:|:------:|:------:|:------:|:------:|:------:|
+|2024.1.|재단법인<br/>미래와소프트웨어|제3회 빅데이터 활용 미래 사회문제 문제해결 아이디어해커톤|시각화 & ML|[링크](https://github.com/Jaewon1634/Maintenance-bill_prediction)|-|
 |2024.6.|환경부|2024년도 환경데이터 활용 및 분석 공모전|데이터분석 & 시각화|[링크](https://github.com/Jaewon1634/fine-dust_solving)|-|
 |2024.11.|국민대학교|제2회 국민대학교 AI빅데이터분석경진대회|ML|링크|대상|
 |2024.12.|한국청소년활동진흥원|2024년 청소년데이터 분석•활용 공모전|데이터분석 & 시각화|링크|장려상|
@@ -66,8 +72,8 @@ Have a Nice day:)
 
 <br/>
 
-## 🆙 GitHub Stats
-![Jaewon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaewon1634&show_icons=true&theme=swift)
+## 🆙 GitHub & Baekjoon Stats
+![Jaewon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaewon1634&show_icons=true&theme=swift) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodnjsdl0123)](https://solved.ac/wodnjsdl0123/)
 <br/>
 <br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jaewon1634%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 

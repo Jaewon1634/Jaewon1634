@@ -3,7 +3,8 @@
 ## 🙇‍♂️ Who am I
 Thank you for visiting my Github!<br/><br/>
 Hello, I'm Jaewon Lee, I am a university student enjoying to study AI and data science!<br/>
-I am always passionate about personal growth, and I hope that I can give my best in everything I do.<br/><br/>
+I'm particulary interested in Recommendation System and LLM<br/>
+I hope that my GitHub will be of great help to everyone who came to my GitHub 🍀<br/><br/>
 Have a Nice day:)
 
 
@@ -27,15 +28,13 @@ Have a Nice day:)
 ## 👔 Career 
 | 활동기간 | 기관 | 명칭 | 비고 |
 | :------: | :------: | :------: | :------: |
-| 2016.03. ~ 2019.02. | 논산대건고등학교 | 이공계열 | 졸업 |
-| 2020.03. ~ | 국민대학교 | AI빅데이터융합경영학과 | 제1전공 | 재학 | 
-| 2020.03. ~ 2021.02. | 국민대학교 | 빅데이터경영통계전공 제3,4대 비상대책위원회 | 기획부원 | - |
-| 2021.03. ~ 2021.06. | 국민대학교 | 전공 학회 D&A Basic Session | 학회원 | 수료 |
-| 2021.03. ~ 2021.08. | 국민대학교 | 빅데이터경영통계전공 제8대 학생회 CODE | 기획부원 | - |
-| 2023.09. ~ 2023.12. | 국민대학교 | 전공 학회 D&A ML Session | 학회원 | 수료 |
-| 2023.12. ~ | 국민대학교 | AI빅데이터융합경영학과 제3대 학생회 채움 | 기획부장 | - |
-| 2024.03. ~ 2024.06. | 국민대학교 | 전공 학회 D&A Deep Session | 학회원 | 수료 |
+| 2020.03. ~ | 국민대학교 | AI빅데이터융합경영학과 | 제1전공 | 재학 |
 | 2024.03. ~ | 국민대학교 | 데이터사이언스전공 | 융합전공 | 재학 |
+| 2021.03. ~ 2024.06. | 국민대학교 | 전공 데이터분석 학회 D&A Basic & ML & Deep Session | 학회원 | 수료 |
+| 2023.12. ~ 2024.11. | 국민대학교 | AI빅데이터융합경영학과 제3대 학생회 채움 | 기획부장 | - |
+| 2024.07. ~ 2025.06. | 연합동아리 | BOAZ | 학회원 | - |
+| 2024.12. ~ | 국민대학교 | 전공 인공지능 학회 X:AI | 운영진(기획부장) | - |
+
 
 <br/>
 
@@ -48,10 +47,13 @@ Have a Nice day:)
 <br/>
 
 ## 🎖️ Competition
-|일시|주관|대회명|분야|비고|
+|일시|주관|대회명|분야|비고|수상|
 |:------:|:------:|:------:|:------:|:------:|
-|재단법인<br/>미래와소프트웨어|2024.1|제3회 빅데이터 활용 미래 사회문제 문제 해결 아이디어해커톤|시각화 & ML|[링크](https://github.com/Jaewon1634/Maintenance-bill_prediction)|
-|환경부|2024.6|2024년도 환경데이터 활용 및 분석 공모전|데이터분석 & 시각화|[링크](https://github.com/Jaewon1634/fine-dust_solving)|
+|2024.1.|재단법인<br/>미래와소프트웨어|제3회 빅데이터 활용 미래 사회문제 문제 해결 아이디어해커톤|시각화 & ML|[링크](https://github.com/Jaewon1634/Maintenance-bill_prediction)|-|
+|2024.6.|환경부|2024년도 환경데이터 활용 및 분석 공모전|데이터분석 & 시각화|[링크](https://github.com/Jaewon1634/fine-dust_solving)|-|
+|2024.11.|국민대학교|제2회 국민대학교 AI빅데이터분석경진대회|ML|링크|대상|
+|2024.12.|한국청소년활동진흥원|2024년 청소년데이터 분석•활용 공모전|데이터분석 & 시각화|링크|장려상|
+
 
 
 <br/>
@@ -59,11 +61,8 @@ Have a Nice day:)
 ## 👨‍💻 Projects
 |진행 일시|프로젝트명|분야|비고|
 |:------:|:------:|:------:|:------:|
-|2021|실버세대 백화점 구매활성화 방안 분석 (전공)|EDA & 시각화|[링크](https://github.com/Jaewon1634/silver_generation_consumption)|
-|2023|서울,부산 아파트 실거래가 예측 (학회)|ML|[링크](https://github.com/Jaewon1634/apartment-price_prediction)|
 |2023|패널 Survey 응답 예측 (전공)|ML|[링크](https://github.com/Jaewon1634/panel_survey_prediction)|
 |2024|네이버 뉴스 크롤링을 통한 국내 주요 게임사 분석 (전공)|NLP|[링크](https://github.com/Jaewon1634/Game_Company_Analysis.github.io)|
-|2024|피부질환 판독 AI를 통한 의료 취약 지역 환자 투약 가이드라인 제공 방안<br/>(파이프라인 설계, 구현 X)|CV|[링크](https://github.com/Jaewon1634/skin-disease_screening)|
 
 <br/>
 

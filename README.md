@@ -3,8 +3,8 @@
 ## 🙇‍♂️ Who am I
 Thank you for visiting my Github!<br/><br/>
 
-Hello, I'm Jaewon Lee, I am a university student enjoying to study AI and data science!<br/>
-I'm particulary interested in **Recommendation System and LLM**<br/>
+Hello, I'm Jaewon Lee, I am a university student enjoying to study AI and data science🤚🏻<br/>
+I'm particulary interested in **Recommendation System and LLM!**<br/>
 I hope that my GitHub will be of great help to everyone who came to my GitHub 🍀<br/><br/>
 
 Have a Nice day:)

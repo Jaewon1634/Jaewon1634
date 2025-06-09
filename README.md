@@ -84,7 +84,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jaewon1634&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Jaewon1634"
-  width="600"
+  width="700"
   height="300"
 />
 </a>
+  

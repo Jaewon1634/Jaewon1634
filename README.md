@@ -81,10 +81,10 @@
 
 
 ## 🐻 Farm
-
-</div>
-<p align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/Jaewon1634"/>
-  </a>
-</p>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jaewon1634&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Jaewon1634"
+  width="600"
+  height="300"
+/>
+</a>

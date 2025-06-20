@@ -10,6 +10,7 @@
 
 | School                                     | Position                       | Period            |
 | -----------------------------------------  | ------------------------------ | ----------------- |
+| SeoulTech BigBase Lab                      | Intern                         | 2025-06 - **NOW** |
 | KMU Artificial Intelligence                | Undergraduate(Sub Major)       | 2024-02 — **NOW** |
 | KMU AI,Bigdata and Business administration | Undergraduate                  | 2020-02 — **NOW** |
 
@@ -53,6 +54,7 @@
 | :------: | :------: | :------: | :------: |
 |**2021**|컴퓨터활용능력 2급|대한상공회의소 자격평가사업단|영구|
 |**2023**|ADSP|한국데이터산업진흥원|영구|
+|**2025**|SQLD|한국데이터산업진흥원|영구|
 
 <br/>
 

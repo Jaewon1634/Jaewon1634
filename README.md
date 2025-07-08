@@ -10,9 +10,9 @@
 
 | School                                     | Position                       | Period            |
 | -----------------------------------------  | ------------------------------ | ----------------- |
-| SeoulTech BigBase Lab                      | Intern                         | 2025-06 - **NOW** |
-| KMU Artificial Intelligence                | Undergraduate(Sub Major)       | 2024-02 — **NOW** |
-| KMU AI,Bigdata and Business administration | Undergraduate                  | 2020-02 — **NOW** |
+| SeoulTech BigBase Lab                      | Intern                         | 2025.06 - **NOW** |
+| KMU Artificial Intelligence                | Undergraduate(Sub Major)       | 2024.02 - **NOW** |
+| KMU AI,Bigdata and Business administration | Undergraduate                  | 2020.02 - **NOW** |
 
 
 <br/>

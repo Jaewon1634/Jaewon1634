@@ -77,10 +77,10 @@
 |**2024.12**|한국청소년활동진흥원|2024년 청소년데이터 분석•활용 공모전|DS|장려상|
 |**2024.11**|국민대학교|제2회 국민대학교 AI빅데이터분석경진대회|ML|대상|
 
-
-
-
 <br/>
+
+## 🔗 Tech Blog
+[![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=for-the-badge)](https://gaegulcode.tistory.com/)
 
 
 ## 🐻 Farm

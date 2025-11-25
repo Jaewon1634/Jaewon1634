@@ -4,7 +4,7 @@
 
 
 ## 🧑🏻‍💻 Who am I
-#### Hello, I'm Jaewon Lee, I am an undergraduate student at Kookmin University🤚🏻<br><br> I'm particulary interested in **LLM & VLM** <br/><br/>
+#### Hello, I'm Jaewon Lee, I am an undergraduate student at Kookmin University🤚🏻<br><br> I'm particulary interested in **LLM & NLP** <br/><br/>
 
 <br>
 
@@ -12,7 +12,7 @@
 | -----------------------------------------  | ------------------------------ | ----------------- |
 | SeoulTech BigBase Lab                      | Intern                         | 2025.06 - **NOW** |
 | KMU Artificial Intelligence                | Undergraduate(Sub Major)       | 2024.02 - **NOW** |
-| KMU AI,Bigdata and Business administration | Undergraduate                  | 2020.02 - **NOW** |
+| KMU AI, Bigdata and Management             | Undergraduate                  | 2020.02 - **NOW** |
 
 
 <br/>
@@ -35,6 +35,7 @@
 ### DL/ML Frameworks
 <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-0A74FF?style=for-the-badge&logo=langchain&logoColor=white">
 
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -42,6 +43,8 @@
 ### Visualization Tools
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+
 
 ### Collaboartion Tools
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
@@ -61,10 +64,8 @@
 ## 👔 Extracurricular Activity
 |일시|내용|
 |:------:|:------:|
-|**2024.12 - NOW**|국민대학교 인공지능 학회 X:AI 6기|
-|**2024.12 - NOW**|국민대학교 인공지능 학회 X:AI 기획팀장|
-|**2024.07 - NOW**|국내 최초 대학생 빅데이터 연합 동아리 BOAZ 분석 트랙 23기(시각화 트랙 병행)|
-|**2024.07 - NOW**|국내 최초 대학생 빅데이터 연합 동아리 BOAZ 디자인팀원|
+|**2024.12 - 2025.11**|국민대학교 인공지능 학회 X:AI 6기 & 기획팀장|
+|**2024.07 - 2025.07**|국내 최초 대학생 빅데이터 연합 동아리 BOAZ 분석 트랙 23기(시각화 트랙 병행) & 디자인팀원|
 |**2023.12 - 2024.11**|국민대학교 AI빅데이터융합경영학과 제3대 학생회 채움 기획부장|
 |**2021.03 - 2024.06**|국민대학교 데이터분석 학회 D&A BASIC, ML, DEEP 세션 수료|
 

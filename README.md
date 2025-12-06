@@ -83,6 +83,9 @@
 ## 🔗 Tech Blog
 [![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=for-the-badge)](https://gaegulcode.tistory.com/)
 
+## ⌨️ Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodnjsdl0123)](https://solved.ac/wodnjsdl0123/)
+
 
 ## 🐻 Farm
 <a href="https://github.com/devxb/gitanimals">
